@@ -1,4 +1,4 @@
-import grequests  # NOTE: If using the 'requests' module, import it before 'grequests'
+import grequests  # NOTE: If using the 'requests' module, import 'grequests' BEFORE 'requests'
 import json
 import pandas
 
